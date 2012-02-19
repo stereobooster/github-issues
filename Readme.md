@@ -1,0 +1,1 @@
+go to [issues](https://github.com/stereobooster/github-issues/issues)
